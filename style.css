@@ -1,0 +1,27 @@
+/* LOGIN PAGE */
+.login-body {
+    background-color: #f0f2f5;
+}
+
+.fb-logo {
+    color: #1877f2;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.login-card {
+    border-radius: 10px;
+}
+
+/* HOME PAGE */
+.home-body {
+    background-color: #f0f2f5;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+.card {
+    border-radius: 12px;
+}
